@@ -8326,3 +8326,11 @@ font-size: 15px;}
 .profile-usertitle-job p {
   margin-bottom: 3px;
 }
+
+a {
+  color: rgb(66, 64, 175);
+}
+
+p a:hover {
+  text-decoration: underline;
+}
